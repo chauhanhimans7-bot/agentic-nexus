@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-groq
+langgraph
+langgraph-checkpoint-sqlite
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+pypdf
+duckduckgo-search
+python-dotenv
+requests
